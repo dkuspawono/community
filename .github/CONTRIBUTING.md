@@ -53,4 +53,4 @@ Overflow channels for various Google Cloud Platform products on the
 
 [so]: http://stackoverflow.com/
 [gcp]: http://stackoverflow.com/questions/tagged/google-cloud-platform
-[support]: https://cloud.google.com/support/#community
+[Rujukan]:   https://cloud.google.com/support/#community
